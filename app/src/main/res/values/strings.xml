@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="密码">请输入密码</string>
+    <string name="账号">请输入账号</string>
+    <string name="qq">已阅读并同意服务协议和QQ隐私保护指引</string>
+    <string name="todo1">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="xyh">新用户注册</string>
+    <string name="sjh">手机号登录</string>
+    <string name="zh">找回密码</string>
+</resources>
